@@ -1,0 +1,3 @@
+[submodule "metadiff"]
+	path = metadiff
+	url = https://github.com/Botev/metadiff.git
